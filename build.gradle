@@ -56,7 +56,7 @@ buildscript {
         firebaseUiVersion = "4.0.0"
         flexboxVersion = "1.1.0"
         fragmentVersion = "1.1.0-beta01"
-        glideVersion = "4.6.1"
+        glideVersion = "4.10.0"
         googleMapUtilsVersion = "0.5"
         googlePlayServicesMapsVersion = '16.0.0'
         googlePlayServicesVisionVersion = '17.0.2'
