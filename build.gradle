@@ -45,7 +45,7 @@ buildscript {
         dagger = "2.16"
         dataBindingCompilerVersion = '3.0.1'
         drawerLayoutVersion = '1.1.0-alpha02'
-        espressoVersion = '3.1.1'
+        espressoVersion = '3.2.0'
         fabricVersion = '1.25.4'
         firebaseAuthVersion = '18.1.0'
         firebaseConfigVersion = '18.0.0'
