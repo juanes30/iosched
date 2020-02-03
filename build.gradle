@@ -51,7 +51,7 @@ buildscript {
         firebaseConfigVersion = '18.0.0'
         firebaseCoreVersion = '17.0.1'
         firebaseFirestoreVersion = '20.2.0'
-        firebaseFunctionsVersion = '18.1.0'
+        firebaseFunctionsVersion = '19.0.2'
         firebaseMessagingVersion = '19.0.1'
         firebaseUiVersion = "4.0.0"
         flexboxVersion = "1.1.0"
