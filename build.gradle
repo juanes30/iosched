@@ -50,7 +50,7 @@ buildscript {
         firebaseAuthVersion = '18.1.0'
         firebaseConfigVersion = '18.0.0'
         firebaseCoreVersion = '17.0.1'
-        firebaseFirestoreVersion = '20.2.0'
+        firebaseFirestoreVersion = '21.4.3'
         firebaseFunctionsVersion = '18.1.0'
         firebaseMessagingVersion = '19.0.1'
         firebaseUiVersion = "4.0.0"
