@@ -59,7 +59,7 @@ buildscript {
         glideVersion = "4.6.1"
         googleMapUtilsVersion = "0.5"
         googlePlayServicesMapsVersion = '16.0.0'
-        googlePlayServicesVisionVersion = '17.0.2'
+        googlePlayServicesVisionVersion = '20.1.0'
         googleServicesVersion = "3.2.0"
         gsonVersion = "2.8.1"
         hamcrestVersion = '1.3'
